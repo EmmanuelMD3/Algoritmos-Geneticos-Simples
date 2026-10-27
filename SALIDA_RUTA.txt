@@ -1,0 +1,26 @@
+
+=================================================================
+RESULTADO DEL ALGORITMO GENETICO
+Representacion: permutacion
+Objetivo: MINIMIZAR
+Poblacion: 80 Generaciones: 80
+Seleccion: torneo Cruce: ox
+Mutacion: intercambio Sustitucion: generacional
+Mejor solucion: [2.0, 0.0, 1.0, 5.0, 4.0, 3.0]
+Mejor valor f(x): 20.0
+
+Evolucion (cada ~10% de las generaciones):
+ Gen    0 | Mejor historico: 22.00000000 | Promedio: 32.62500000
+ Gen    8 | Mejor historico: 20.00000000 | Promedio: 24.31250000
+ Gen   16 | Mejor historico: 20.00000000 | Promedio: 22.48750000
+ Gen   24 | Mejor historico: 20.00000000 | Promedio: 22.57500000
+ Gen   32 | Mejor historico: 20.00000000 | Promedio: 22.52500000
+ Gen   40 | Mejor historico: 20.00000000 | Promedio: 23.12500000
+ Gen   48 | Mejor historico: 20.00000000 | Promedio: 21.61250000
+ Gen   56 | Mejor historico: 20.00000000 | Promedio: 22.27500000
+ Gen   64 | Mejor historico: 20.00000000 | Promedio: 21.95000000
+ Gen   72 | Mejor historico: 20.00000000 | Promedio: 22.25000000
+ Gen   80 | Mejor historico: 20.00000000 | Promedio: 22.16250000
+Historial exportado: /mnt/data/Algoritmo_Genetico_Simple/historial_permutacion.csv
+=================================================================
+Ruta usando indices de ciudad 0-5; regresa a la primera.

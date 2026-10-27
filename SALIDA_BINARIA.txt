@@ -1,0 +1,27 @@
+
+Funcion: x0**2+x1**2
+
+=================================================================
+RESULTADO DEL ALGORITMO GENETICO
+Representacion: binaria
+Objetivo: MINIMIZAR
+Poblacion: 80 Generaciones: 80
+Seleccion: torneo Cruce: uniforme
+Mutacion: bitflip Sustitucion: generacional
+Mejor solucion: [-0.002442, 0.002442]
+Mejor valor f(x): 1.19268e-05
+
+Evolucion (cada ~10% de las generaciones):
+ Gen    0 | Mejor historico: 0.00320830 | Promedio: 61.37544789
+ Gen    8 | Mejor historico: 0.00187250 | Promedio: 39.69339959
+ Gen   16 | Mejor historico: 0.00001193 | Promedio: 31.71599124
+ Gen   24 | Mejor historico: 0.00001193 | Promedio: 28.04365430
+ Gen   32 | Mejor historico: 0.00001193 | Promedio: 24.12975650
+ Gen   40 | Mejor historico: 0.00001193 | Promedio: 32.38649892
+ Gen   48 | Mejor historico: 0.00001193 | Promedio: 25.00609427
+ Gen   56 | Mejor historico: 0.00001193 | Promedio: 27.89859995
+ Gen   64 | Mejor historico: 0.00001193 | Promedio: 28.19081014
+ Gen   72 | Mejor historico: 0.00001193 | Promedio: 30.66888385
+ Gen   80 | Mejor historico: 0.00001193 | Promedio: 28.76779479
+Historial exportado: /mnt/data/Algoritmo_Genetico_Simple/historial_numerico.csv
+=================================================================

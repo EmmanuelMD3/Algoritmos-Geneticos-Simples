@@ -1,0 +1,27 @@
+
+Funcion: (x-3)**2+2
+
+=================================================================
+RESULTADO DEL ALGORITMO GENETICO
+Representacion: real
+Objetivo: MINIMIZAR
+Poblacion: 80 Generaciones: 100
+Seleccion: torneo Cruce: blx
+Mutacion: no_uniforme Sustitucion: generacional
+Mejor solucion: [3.0]
+Mejor valor f(x): 2.0
+
+Evolucion (cada ~10% de las generaciones):
+ Gen    0 | Mejor historico: 2.00000534 | Promedio: 47.84751131
+ Gen   10 | Mejor historico: 2.00000000 | Promedio: 3.61293470
+ Gen   20 | Mejor historico: 2.00000000 | Promedio: 5.89757671
+ Gen   30 | Mejor historico: 2.00000000 | Promedio: 5.71141500
+ Gen   40 | Mejor historico: 2.00000000 | Promedio: 4.54312952
+ Gen   50 | Mejor historico: 2.00000000 | Promedio: 3.57674494
+ Gen   60 | Mejor historico: 2.00000000 | Promedio: 3.15973845
+ Gen   70 | Mejor historico: 2.00000000 | Promedio: 3.58279228
+ Gen   80 | Mejor historico: 2.00000000 | Promedio: 2.17768416
+ Gen   90 | Mejor historico: 2.00000000 | Promedio: 2.06955228
+ Gen  100 | Mejor historico: 2.00000000 | Promedio: 2.00000000
+Historial exportado: /mnt/data/Algoritmo_Genetico_Simple/historial_numerico.csv
+=================================================================
